@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item android:title="Automotive">
+        <menu>
+            <item android:title="Engine" />
+            <item android:title="Lights" />
+            <item android:title="Towing" />
+            <item android:title="Tyres" />
+        </menu>
+    </item>
+    <item android:title="Camping">
+        <menu>
+            <item android:title="Vegetation" />
+            <item android:title="Terrain" />
+            <item android:title="Knots" />
+        </menu>
+    </item>
+    <item android:title="Food">
+        <menu>
+            <item android:title="Recipes" />
+            <item android:title="Travel Food" />
+        </menu>
+    </item>
+    <item android:title="Housing">
+        <menu>
+            <item android:title="Repair" />
+            <item android:title="Maintenance" />
+            <item android:title="Informal Shelter" />
+            <item android:title="Improvised Shelter" />
+        </menu>
+    </item>
+    <item android:title="Survival">
+        <menu>
+            <item android:title="Emergency Water" />
+            <item android:title="Emergency Food" />
+            <item android:title="Emergency Shelter" />
+        </menu>
+    </item>
+    <item android:title="Water">
+        <menu>
+            <item android:title="Types" />
+            <item android:title="Sources" />
+            <item android:title="Purification Methods" />
+        </menu>
+    </item>
+
+</menu>
